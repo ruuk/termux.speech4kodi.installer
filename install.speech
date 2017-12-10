@@ -1,4 +1,4 @@
-#!/bin/bash
+#!$PREFIX/bin/bash
 
 apt update
 apt -y install python2 espeak termux-api
